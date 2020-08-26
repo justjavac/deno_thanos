@@ -9,7 +9,7 @@ This command could delete a half of your files randomly.
 ## Install
 
 ```bash
-deno install --allow-read --allow-write --unstable --name thanos https://deno.land/x/thanos/mod.ts
+deno install --allow-read --allow-write --unstable --name thanos https://git.io/deno_thanos
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ OR, use without install:
 
 ```bash
 cd node_modules
-deno run --allow-read --allow-write --unstable https://deno.land/x/thanos/mod.ts --help
+deno run --allow-read --allow-write --unstable https://git.io/deno_thanos --help
 ```
 
 ## License
